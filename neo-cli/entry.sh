@@ -53,5 +53,5 @@ else
 fi
 
 # keep container runnning 
-/bin/sh
+tail -f /dev/null
 # sleep infinitys
